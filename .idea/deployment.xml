@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zhaoxuekun@221.204.36.42:230 password (6)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="zhaoxuekun@221.204.36.42:230 password (6)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhaoxuekun/my_project/class_task/detect_learn" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
